@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{99236408-C33B-412A-BF27-9CA3394DE286}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassSchedule PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassSchedule/TagHelpers/TagHelperExtensionMethods.cs">
+    <Files>
+      <File FileName="ClassSchedule/Views/_ViewImports.cshtml" Line="5" Column="1" />
+      <File FileName="ClassSchedule/TagHelpers/ExtensionMethods.cs" Line="36" Column="1" />
+      <File FileName="ClassSchedule/TagHelpers/SubmitButtonTagHelper.cs" Line="11" Column="40" />
+      <File FileName="ClassSchedule/TagHelpers/MyLinkButtonTagHelper.cs" Line="32" Column="26" />
+      <File FileName="ClassSchedule/TagHelpers/TagHelperExtensionMethods.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch15Ex1ClassSchedule" expanded="True">
+            <Node name="ClassSchedule" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="TagHelpers" expanded="True">
+                <Node name="TagHelperExtensionMethods.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
